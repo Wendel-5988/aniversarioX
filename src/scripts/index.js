@@ -26,5 +26,5 @@ btn = document.getElementById('btn');
 btn.addEventListener('click', () => {
     alert('Você está confirmado para o Aniversário X no dia 11/05/2025')
     btn.classList.add('none')
-    content.innerHTML = '<h3>Presença confirmada!</h3> <p>O mundo não está preparado par o que vai contecer dia 11/05/2025.</p>'
+    content.innerHTML = '<h3>Presença confirmada!</h3> <p>O mundo não está preparado para o que vai contecer dia 11/05/2025.</p>'
 })
